@@ -4,7 +4,7 @@ void main(){
 //Create 3 different object for 3 books
 Book book0 =Book(title:'Cash Machine', author:'Koach kanchon',publicationYear: 2024  );
 Book book1 =Book(title:'Muminer Career Vabna', author:'Dr. Shamsul Arefin Shakti ',publicationYear: 2023  );
-Book book2 =Book(title:'Secrets Of Jainism', author:'Henry Ford ',publicationYear: -2022  );
+Book book2 =Book(title:'Secrets Of Jainism', author:'Henry Ford ',publicationYear: 2022  );
 
 // Simulate reading pages
 
